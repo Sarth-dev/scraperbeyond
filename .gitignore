@@ -1,5 +1,5 @@
 # ===============================
-# GLOBAL
+# Global
 # ===============================
 .DS_Store
 Thumbs.db
@@ -16,7 +16,7 @@ Thumbs.db
 !.env.example
 
 # ===============================
-# LARAVEL
+# Laravel
 # ===============================
 /backend/vendor/
 /backend/node_modules/
@@ -30,7 +30,7 @@ Thumbs.db
  /backend/database/database.sqlite
 
 # ===============================
-# NODE.JS
+# Node js
 # ===============================
 /node_modules/
 npm-debug.log*
@@ -38,10 +38,14 @@ yarn-debug.log*
 yarn-error.log*
 
 
-# nodeworker
-nodeworker/node_modules
 # ===============================
-# REACT
+# Nodeworker
+# ===============================
+nodeworker/node_modules
+
+
+# ===============================
+# React
 # ===============================
 /frontend/node_modules/
 /frontend/dist/
